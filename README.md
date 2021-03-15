@@ -1,4 +1,4 @@
-# How to maintain expanded state of groups in printing in wpf and uwp datagrid?
+# How to maintain expanded state of groups in printing in WPF DataGrid (SfDataGrid)?
 
 This example illustrates how to maintain expanded state of groups in printing in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
